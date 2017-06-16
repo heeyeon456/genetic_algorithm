@@ -51,3 +51,17 @@ Given a set of items, each with a weight and a value, determine the number of ea
 * make output file with average and best fitness value of each generation
 
 
+# Estimation of distribution algorithm
+## Solving knapsack problem using Univariate Marginal Distribution Algorithm(UMDA)
+### UMDA.java
+1. parameters are defined as static variable
+
+2. truncation selection
+* select best tau percent individual
+
+3. Model Sampling
+* using selected individuals, make probability distribution by calculating the ratio of 1's 
+* sampling by comparison with random number
+
+4. output
+* average and best fitness value of each generation
