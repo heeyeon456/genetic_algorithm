@@ -51,6 +51,8 @@ Given a set of items, each with a weight and a value, determine the number of ea
 * make output file with average and best fitness value of each generation
 
 
+
+
 # Estimation of distribution algorithm
 ## Solving knapsack problem using Univariate Marginal Distribution Algorithm(UMDA)
 ### UMDA.java
